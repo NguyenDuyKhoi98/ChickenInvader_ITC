@@ -1,0 +1,10 @@
+Tập 1: Tạo prefab ship và thêm shield
+Tập 2: 
+   + 1:19: Tạo folder chứa script ( Ship.cs )
+   + 1:47: Gắn script vào Ship
+Tập 3: 
+   + 1:00: Chặn ship ra ngoài màn hình
+   + 4:04: Tạo GameObject bullet và điều chỉnh.
+   + 4:50: Tạo folder chứa prefab Bullet
+   + 5:10: Tạo script Bullet
+   // Lười ghi quá=))

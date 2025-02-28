@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 8e471efe1a0e9c241be210553d1562c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4129783998199353862
+    second: frag_explosion_256x256px_0
+  - first:
+      213: -5388380581134688624
+    second: frag_explosion_256x256px_1
+  - first:
+      213: 8613553909007217921
+    second: frag_explosion_256x256px_2
+  - first:
+      213: -3885847484023424407
+    second: frag_explosion_256x256px_3
+  - first:
+      213: -4976862429427066894
+    second: frag_explosion_256x256px_4
+  - first:
+      213: 1698953519573739481
+    second: frag_explosion_256x256px_5
+  - first:
+      213: 1536278418587380523
+    second: frag_explosion_256x256px_6
+  - first:
+      213: -2030632103377386153
+    second: frag_explosion_256x256px_7
+  - first:
+      213: 6821804194729873812
+    second: frag_explosion_256x256px_8
+  - first:
+      213: 2339141437523666896
+    second: frag_explosion_256x256px_9
+  - first:
+      213: 112184326392069272
+    second: frag_explosion_256x256px_10
+  - first:
+      213: 3514565840283932215
+    second: frag_explosion_256x256px_11
+  - first:
+      213: -7735732512241203047
+    second: frag_explosion_256x256px_12
+  - first:
+      213: 461261903387618166
+    second: frag_explosion_256x256px_13
+  - first:
+      213: -1636065755956872304
+    second: frag_explosion_256x256px_14
+  - first:
+      213: 8490019737787910312
+    second: frag_explosion_256x256px_15
+  - first:
+      213: -7673229975895673076
+    second: frag_explosion_256x256px_16
+  - first:
+      213: -4538080727697545944
+    second: frag_explosion_256x256px_17
+  - first:
+      213: -8313839699348148249
+    second: frag_explosion_256x256px_18
+  - first:
+      213: 2705688466298659939
+    second: frag_explosion_256x256px_19
+  - first:
+      213: 7796089453514773954
+    second: frag_explosion_256x256px_20
+  - first:
+      213: 8941024634129794440
+    second: frag_explosion_256x256px_21
+  - first:
+      213: -771189213832307819
+    second: frag_explosion_256x256px_22
+  - first:
+      213: 7498454608254381580
+    second: frag_explosion_256x256px_23
+  - first:
+      213: 5622498875210388961
+    second: frag_explosion_256x256px_24
+  - first:
+      213: -1368367704704065505
+    second: frag_explosion_256x256px_25
+  - first:
+      213: 7248872245303385964
+    second: frag_explosion_256x256px_26
+  - first:
+      213: 7987380056593949598
+    second: frag_explosion_256x256px_27
+  - first:
+      213: 6016498169817368700
+    second: frag_explosion_256x256px_28
+  - first:
+      213: -5634524556679110066
+    second: frag_explosion_256x256px_29
+  - first:
+      213: 4713191641524582618
+    second: frag_explosion_256x256px_30
+  - first:
+      213: 3006185001637468762
+    second: frag_explosion_256x256px_31
+  - first:
+      213: 7552671136652307236
+    second: frag_explosion_256x256px_32
+  - first:
+      213: -7823659327231319163
+    second: frag_explosion_256x256px_33
+  - first:
+      213: 430804098591116953
+    second: frag_explosion_256x256px_34
+  - first:
+      213: 161025019040553570
+    second: frag_explosion_256x256px_35
+  - first:
+      213: -5506989184614476707
+    second: frag_explosion_256x256px_36
+  - first:
+      213: 7522574861337690915
+    second: frag_explosion_256x256px_37
+  - first:
+      213: 9137991862758198625
+    second: frag_explosion_256x256px_38
+  - first:
+      213: -3649414627670433640
+    second: frag_explosion_256x256px_39
+  - first:
+      213: -6626742598310758469
+    second: frag_explosion_256x256px_40
+  - first:
+      213: 5494973093086339483
+    second: frag_explosion_256x256px_41
+  - first:
+      213: 9206636229130906665
+    second: frag_explosion_256x256px_42
+  - first:
+      213: -1670704669361257462
+    second: frag_explosion_256x256px_43
+  - first:
+      213: 9091005299686084535
+    second: frag_explosion_256x256px_44
+  - first:
+      213: 8080063379422933610
+    second: frag_explosion_256x256px_45
+  - first:
+      213: -4821674580211143028
+    second: frag_explosion_256x256px_46
+  - first:
+      213: 5215879626515399190
+    second: frag_explosion_256x256px_47
+  - first:
+      213: -2622226041338247334
+    second: frag_explosion_256x256px_48
+  - first:
+      213: -2888245088240648038
+    second: frag_explosion_256x256px_49
+  - first:
+      213: 165539868074400985
+    second: frag_explosion_256x256px_50
+  - first:
+      213: -5762167485079080435
+    second: frag_explosion_256x256px_51
+  - first:
+      213: 4360060896355216971
+    second: frag_explosion_256x256px_52
+  - first:
+      213: -1503657919620731505
+    second: frag_explosion_256x256px_53
+  - first:
+      213: -2122884355030408571
+    second: frag_explosion_256x256px_54
+  - first:
+      213: 6216559942863596483
+    second: frag_explosion_256x256px_55
+  - first:
+      213: 2956790297784679700
+    second: frag_explosion_256x256px_56
+  - first:
+      213: -3083060054006530828
+    second: frag_explosion_256x256px_57
+  - first:
+      213: -544390451125135612
+    second: frag_explosion_256x256px_58
+  - first:
+      213: -7461738690622263461
+    second: frag_explosion_256x256px_59
+  - first:
+      213: -860451027160291384
+    second: frag_explosion_256x256px_60
+  - first:
+      213: -8267834118775916977
+    second: frag_explosion_256x256px_61
+  - first:
+      213: 2989947281824707422
+    second: frag_explosion_256x256px_62
+  - first:
+      213: -4891339618784487563
+    second: frag_explosion_256x256px_63
+  - first:
+      213: -1698026268559651123
+    second: frag_explosion_256x256px_64
+  - first:
+      213: 5674633671989495571
+    second: frag_explosion_256x256px_65
+  - first:
+      213: -4486613252614576967
+    second: frag_explosion_256x256px_66
+  - first:
+      213: 8005420367385496918
+    second: frag_explosion_256x256px_67
+  - first:
+      213: -2536843554140345000
+    second: frag_explosion_256x256px_68
+  - first:
+      213: 7742109665792202525
+    second: frag_explosion_256x256px_69
+  - first:
+      213: 4678442173838985550
+    second: frag_explosion_256x256px_70
+  - first:
+      213: -7052062245884626429
+    second: frag_explosion_256x256px_71
+  - first:
+      213: 6924981556014054679
+    second: frag_explosion_256x256px_72
+  - first:
+      213: 2712294387271637816
+    second: frag_explosion_256x256px_73
+  - first:
+      213: -8526588526671871298
+    second: frag_explosion_256x256px_74
+  - first:
+      213: -6615428382037375128
+    second: frag_explosion_256x256px_75
+  - first:
+      213: 8076191326730817326
+    second: frag_explosion_256x256px_76
+  - first:
+      213: -7183733102710598509
+    second: frag_explosion_256x256px_77
+  - first:
+      213: 7575160190491266780
+    second: frag_explosion_256x256px_78
+  - first:
+      213: 9016013223293380608
+    second: frag_explosion_256x256px_79
+  - first:
+      213: -1198116933308420233
+    second: frag_explosion_256x256px_80
+  - first:
+      213: -2518158596867494621
+    second: frag_explosion_256x256px_81
+  - first:
+      213: 6792317213399661066
+    second: frag_explosion_256x256px_82
+  - first:
+      213: 6749031647712571511
+    second: frag_explosion_256x256px_83
+  - first:
+      213: -3369651690168645280
+    second: frag_explosion_256x256px_84
+  - first:
+      213: 5304811230765197497
+    second: frag_explosion_256x256px_85
+  - first:
+      213: 4621596127762504714
+    second: frag_explosion_256x256px_86
+  - first:
+      213: 7644871090691395767
+    second: frag_explosion_256x256px_87
+  - first:
+      213: -8484118301204859796
+    second: frag_explosion_256x256px_88
+  - first:
+      213: 680841447961406835
+    second: frag_explosion_256x256px_89
+  - first:
+      213: 9002292486965981503
+    second: frag_explosion_256x256px_90
+  - first:
+      213: -2536782419563197922
+    second: frag_explosion_256x256px_91
+  - first:
+      213: 8519530396291912166
+    second: frag_explosion_256x256px_92
+  - first:
+      213: -5885985745679337036
+    second: frag_explosion_256x256px_93
+  - first:
+      213: 7088585155128182936
+    second: frag_explosion_256x256px_94
+  - first:
+      213: -7247695208468956944
+    second: frag_explosion_256x256px_95
+  - first:
+      213: -744359078340195686
+    second: frag_explosion_256x256px_96
+  - first:
+      213: -2404252861925917288
+    second: frag_explosion_256x256px_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1378
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba5547f27ea547438d405f2dccb3e49
+      internalID: -2033282552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1362
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69706bd2dedc32448bc5dddfd5c685e
+      internalID: -1988840448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_3
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1347
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb1485fc634f845a6475030b686bc1
+      internalID: 848318497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_4
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1333
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5dabadb657a2b4281728deffef5fd0
+      internalID: -1632830844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_5
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1319
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19165d7e25c607747b5c6e546e6ffe61
+      internalID: -2043920382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1049
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ef980f249776478dd3b30e7e81ce1
+      internalID: 42597448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1037
+        width: 224
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383082c28e884a44b8a215dc5c81f4d
+      internalID: 1987388008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1025
+        width: 247
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326995e30e9de3a4cbc7453927a185ff
+      internalID: 2028421993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1063
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82a4d01eba750149bc3db92e3abb927
+      internalID: 1732250954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_10
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1024
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cec4edac9ee44798d64b887d90eb6
+      internalID: 1550626601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aac2c6e639bd440b87281e12b4be03
+      internalID: 492650796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4775eeae51b627444afd382988ae3724
+      internalID: -459939507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ca6848a41a484f85e96e20d57a602
+      internalID: -1119228120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e60fbd82420ec4da49dde01173fa10
+      internalID: -1471737083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c8f107d8e59f4e9765c5e659af904
+      internalID: 819444287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 788
+        width: 209
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1696270e077464eb73787f91c7e966
+      internalID: -2039724085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 785
+        width: 214
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13e5dd539399e4aa60b5c433c9be33
+      internalID: 700944135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_19
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 797
+        width: 198
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b8d9170080c34b9466d3becbbd929
+      internalID: -1177616163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_20
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 791
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dccfbba4590a945b7acb0168e131aa
+      internalID: -2015867396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 303
+        width: 189
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd93c87bfdb7be44b1dee92de15e02a
+      internalID: 1376599074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 523
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f5a998258d28408d47c01a924e565
+      internalID: -894505437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 521
+        width: 231
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134c45847d45f64092d3109f01b7ae3
+      internalID: -264697787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_24
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 525
+        width: 233
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698ae0f4cc3956429b9dd21268b15df
+      internalID: 1145040442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 527
+        width: 220
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9a4282640a1f48aca59461b591dc8
+      internalID: -896435642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 525
+        width: 224
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70643ca2a9745014aa39dbb4b0f10a02
+      internalID: -1667240784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_41
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 525
+        width: 233
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b4dec4758886489672d6b94a7c99a
+      internalID: 733429054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_42
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 525
+        width: 233
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31e77f173ad6f409d83b0ac78a955e
+      internalID: -47816736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_74
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 267
+        width: 234
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7e55671d094b48aaa24c65320710d
+      internalID: 1994461978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 268
+        width: 213
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99d25af49ca3042a7fa1de2cd51040
+      internalID: -1198166296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_76
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 268
+        width: 161
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c03d10964d6044398313cb956be9de
+      internalID: -1847847514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_79
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 271
+        width: 150
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f1b90a65ef7e46b2440333c93c94d
+      internalID: -259289634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frag_explosion_256x256px_81
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 263
+        width: 156
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6eb2d43a88bf84b987e5d9a168c543
+      internalID: 1373981228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea3e4ba0fd8683542a2e3b456ac16091
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frag_explosion_256x256px_0: -767543574
+      frag_explosion_256x256px_1: -2033282552
+      frag_explosion_256x256px_10: 1550626601
+      frag_explosion_256x256px_11: 492650796
+      frag_explosion_256x256px_12: -459939507
+      frag_explosion_256x256px_13: -1119228120
+      frag_explosion_256x256px_14: -1471737083
+      frag_explosion_256x256px_15: 819444287
+      frag_explosion_256x256px_16: -2039724085
+      frag_explosion_256x256px_17: 700944135
+      frag_explosion_256x256px_18: 920544354
+      frag_explosion_256x256px_19: -1177616163
+      frag_explosion_256x256px_2: -1988840448
+      frag_explosion_256x256px_20: -2015867396
+      frag_explosion_256x256px_21: 1376599074
+      frag_explosion_256x256px_22: -894505437
+      frag_explosion_256x256px_23: -264697787
+      frag_explosion_256x256px_24: 1145040442
+      frag_explosion_256x256px_25: -1958381770
+      frag_explosion_256x256px_26: 27369064
+      frag_explosion_256x256px_27: -1550269803
+      frag_explosion_256x256px_28: -1700447508
+      frag_explosion_256x256px_29: 1843138387
+      frag_explosion_256x256px_3: 848318497
+      frag_explosion_256x256px_30: 2020593538
+      frag_explosion_256x256px_31: -405215989
+      frag_explosion_256x256px_32: -896435642
+      frag_explosion_256x256px_33: -725154861
+      frag_explosion_256x256px_34: -1667240784
+      frag_explosion_256x256px_35: -1893323223
+      frag_explosion_256x256px_36: -1199479472
+      frag_explosion_256x256px_37: 1754746265
+      frag_explosion_256x256px_38: 1432690277
+      frag_explosion_256x256px_39: 1690395005
+      frag_explosion_256x256px_4: -1632830844
+      frag_explosion_256x256px_40: 532282230
+      frag_explosion_256x256px_41: 733429054
+      frag_explosion_256x256px_42: -47816736
+      frag_explosion_256x256px_43: -1939515558
+      frag_explosion_256x256px_44: 1818332835
+      frag_explosion_256x256px_45: -990851331
+      frag_explosion_256x256px_46: 986141787
+      frag_explosion_256x256px_47: 711268341
+      frag_explosion_256x256px_48: -1474744150
+      frag_explosion_256x256px_49: -782856799
+      frag_explosion_256x256px_5: -2043920382
+      frag_explosion_256x256px_50: -1733305879
+      frag_explosion_256x256px_51: -1132011352
+      frag_explosion_256x256px_52: 230728928
+      frag_explosion_256x256px_53: -1509414870
+      frag_explosion_256x256px_54: 1974751646
+      frag_explosion_256x256px_55: -329384589
+      frag_explosion_256x256px_56: -1212506563
+      frag_explosion_256x256px_57: 158642304
+      frag_explosion_256x256px_58: -162257271
+      frag_explosion_256x256px_59: 1246259770
+      frag_explosion_256x256px_6: 42597448
+      frag_explosion_256x256px_60: 88263991
+      frag_explosion_256x256px_61: -100085663
+      frag_explosion_256x256px_62: 29883781
+      frag_explosion_256x256px_63: 1909128890
+      frag_explosion_256x256px_64: 209331401
+      frag_explosion_256x256px_65: -722070771
+      frag_explosion_256x256px_66: 1587465605
+      frag_explosion_256x256px_67: 686636028
+      frag_explosion_256x256px_68: 167613600
+      frag_explosion_256x256px_69: 1911561013
+      frag_explosion_256x256px_7: 1987388008
+      frag_explosion_256x256px_70: -1211896780
+      frag_explosion_256x256px_71: 1699105453
+      frag_explosion_256x256px_72: -335261661
+      frag_explosion_256x256px_73: 309174721
+      frag_explosion_256x256px_74: 1994461978
+      frag_explosion_256x256px_75: -1198166296
+      frag_explosion_256x256px_76: -1847847514
+      frag_explosion_256x256px_77: 1066917564
+      frag_explosion_256x256px_78: 529415738
+      frag_explosion_256x256px_79: -259289634
+      frag_explosion_256x256px_8: 2028421993
+      frag_explosion_256x256px_80: 597446603
+      frag_explosion_256x256px_81: 1373981228
+      frag_explosion_256x256px_82: 2122855236
+      frag_explosion_256x256px_83: 1268299790
+      frag_explosion_256x256px_84: -1521959320
+      frag_explosion_256x256px_85: -1459719019
+      frag_explosion_256x256px_86: -476353700
+      frag_explosion_256x256px_87: 2073357938
+      frag_explosion_256x256px_88: -882202719
+      frag_explosion_256x256px_89: -1934417428
+      frag_explosion_256x256px_9: 1732250954
+      frag_explosion_256x256px_90: -2001596565
+      frag_explosion_256x256px_91: 1504886620
+      frag_explosion_256x256px_92: -771910251
+      frag_explosion_256x256px_93: -1873373669
+      frag_explosion_256x256px_94: -1947593016
+      frag_explosion_256x256px_95: -2048777071
+      frag_explosion_256x256px_96: -535281296
+      frag_explosion_256x256px_97: 712642836
+      frag_explosion_256x256px_98: -2020744702
+      frag_explosion_256x256px_99: -1825615521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
