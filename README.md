@@ -1,7 +1,7 @@
 # ChickenInvader_ITC
  Bài cuối kỳ môn Game2D
  
-![Stage1](https://imgur.com/a/BZmFY5h)
+![Stage1](Stage1.png)
 
 ## Hướng dẫn: 
  - Tạo Project unity 2D mới
