@@ -1,5 +1,8 @@
 # ChickenInvader_ITC
  Bài cuối kỳ môn Game2D
+
+![Stage1](https://drive.google.com/file/d/1WUfOeU6jTbUPslT4VPEkmui8H4_nkwUZ/view?usp=drive_link)
+ 
 ## Hướng dẫn: 
  - Tạo Project unity 2D mới
  - Tải và lưu các file trên vào thư mục Asset của dự án
