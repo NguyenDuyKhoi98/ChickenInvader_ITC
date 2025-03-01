@@ -1,6 +1,7 @@
 # ChickenInvader_ITC
  Bài cuối kỳ môn Game2D
- 
+
+![Stage1](Mainmenu.png)
 ![Stage1](Stage1.png)
 
 ## Hướng dẫn: 
